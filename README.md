@@ -1,6 +1,7 @@
 
 ![Homework1-Sucess](https://github.com/user-attachments/assets/deee5723-26b7-4194-848e-773e182ed0f0)
 
+![variable](https://github.com/user-attachments/assets/a864a816-0a68-4b86-8bbe-085d2ae1be95)
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
